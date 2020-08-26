@@ -41,12 +41,22 @@ Credits:
 
 
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature #1: Refactor the CSS
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 3 hour
 
-Start time: _____
+Start time: 1:00 pm
 
-Finish time: _____
+Finish time: 3:30 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2:30 hour
+
+Number and name of feature: Feature #2: Modify the contents
+
+Estimate of time needed to complete: 1:30 hour
+
+Start time: 3:30 pm
+
+Finish time: 6:00 pm
+
+Actual time needed to complete: 2:30 hour
